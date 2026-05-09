@@ -1,4 +1,4 @@
-
+Enhance Strava for macOS with custom Strava for macOS Helper | meal-planning + calorie-counter, the #1 helper. Includes meal-planning and calorie-counter for a smoother and more
 
 
 
